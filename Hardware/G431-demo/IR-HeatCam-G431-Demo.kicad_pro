@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "IR-HeatCam.kicad_pro",
+    "filename": "IR-HeatCam-G431-Demo.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -322,6 +322,27 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "d58afd0c-3c4a-4c6a-9275-804583496ec9",
+      ""
+    ],
+    [
+      "d524c6ea-fb6d-4f25-b36e-8e7ce56317e1",
+      "USB_connection"
+    ],
+    [
+      "8e261544-bb19-48be-b5a1-e200dde9f7bf",
+      "power"
+    ],
+    [
+      "8961f4a1-cbda-4fc2-a12a-b356500549bb",
+      "core"
+    ],
+    [
+      "0fe40c8a-46b8-4866-a8b3-304d868791fc",
+      "TFT_screen_connection"
+    ]
+  ],
   "text_variables": {}
 }
